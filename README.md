@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Houssine  
 
-- 👀 I’m interested in **software & mobile development**  
+- 👀 I’m interested in **BI & mobile development**  
 - 🌱 Currently learning **Flutter & Dart** to build cross-platform apps  
 - 💻 I like working on **e-commerce apps, UI/UX design, and responsive mobile solutions**  
 - 💞️ Looking to collaborate on **open-source Flutter projects** or **student projects**  
