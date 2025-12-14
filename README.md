@@ -4,8 +4,7 @@
 - 🌱 Currently learning **Flutter & Dart** to build cross-platform apps and lerning AI,ML,DL and LLM for powerfull Bi solution 
 - 💻 I like working on **e-commerce apps, UI/UX design, and responsive mobile solutions**  
 - 💞️ Looking to collaborate on **open-source Flutter projects** or **student projects**  
-- 📫 Reach me at: ...
-- ⚡ ⚡ Fun fact: I’ve actually debugged code in my sleep — and it worked the next day 😅
+- 📫 Reach me at: houssinelsimen268@gmail.com
 
 <!---
 HoussineS/HoussineS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
