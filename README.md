@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **BI & mobile development**  
 - 🌱 Currently learning **Flutter & Dart** to build cross-platform apps and lerning AI,ML,DL and LLM for powerfull Bi solution 
-- 💻 I like working on helping ** businesses work with mobile apps to make their teams more efficien and responsive mobile solutions**  
+- 💻 I like working on helping **Businesses work with mobile apps to make their teams more efficien and responsive mobile solutions**  
 - 💞️ Looking to collaborate on **open-source Flutter projects** or **student projects**  
 - 📫 Reach me at: houssineslimen268@gmail.com
 
